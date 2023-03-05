@@ -1,0 +1,20 @@
+C:\Users\Студент\Documents\Visual Studio 2012\Projects\IvanovoServer\IvanovoServer\bin\Debug\IvanovoServer.exe.config
+C:\Users\Студент\Documents\Visual Studio 2012\Projects\IvanovoServer\IvanovoServer\bin\Debug\IvanovoServer.exe
+C:\Users\Студент\Documents\Visual Studio 2012\Projects\IvanovoServer\IvanovoServer\bin\Debug\IvanovoServer.pdb
+C:\Users\Студент\Documents\Visual Studio 2012\Projects\IvanovoServer\IvanovoServer\obj\Debug\IvanovoServer.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Documents\Visual Studio 2012\Projects\IvanovoServer\IvanovoServer\obj\Debug\IvanovoServer.Properties.Resources.resources
+C:\Users\Студент\Documents\Visual Studio 2012\Projects\IvanovoServer\IvanovoServer\obj\Debug\IvanovoServer.csproj.GenerateResource.Cache
+C:\Users\Студент\Documents\Visual Studio 2012\Projects\IvanovoServer\IvanovoServer\obj\Debug\IvanovoServer.exe
+C:\Users\Студент\Documents\Visual Studio 2012\Projects\IvanovoServer\IvanovoServer\obj\Debug\IvanovoServer.pdb
+C:\Users\Студент\Documents\Visual Studio 2012\Projects\IvanovoServer\IvanovoServer\obj\Debug\IvanovoServer.server.resources
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoServer\bin\Debug\IvanovoServer.exe.config
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoServer\bin\Debug\IvanovoServer.exe
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoServer\bin\Debug\IvanovoServer.pdb
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoServer\obj\Debug\IvanovoServer.csproj.AssemblyReference.cache
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoServer\obj\Debug\IvanovoServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoServer\obj\Debug\IvanovoServer.server.resources
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoServer\obj\Debug\IvanovoServer.Properties.Resources.resources
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoServer\obj\Debug\IvanovoServer.csproj.GenerateResource.cache
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoServer\obj\Debug\IvanovoServer.csproj.CoreCompileInputs.cache
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoServer\obj\Debug\IvanovoServer.exe
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoServer\obj\Debug\IvanovoServer.pdb

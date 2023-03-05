@@ -1,0 +1,31 @@
+C:\Users\Студент\Documents\Visual Studio 2012\Projects\IvanovoServer\IvanovoClient\bin\Debug\IvanovoClient.exe.config
+C:\Users\Студент\Documents\Visual Studio 2012\Projects\IvanovoServer\IvanovoClient\bin\Debug\IvanovoClient.exe
+C:\Users\Студент\Documents\Visual Studio 2012\Projects\IvanovoServer\IvanovoClient\bin\Debug\IvanovoClient.pdb
+C:\Users\Студент\Documents\Visual Studio 2012\Projects\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Documents\Visual Studio 2012\Projects\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.Properties.Resources.resources
+C:\Users\Студент\Documents\Visual Studio 2012\Projects\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.csproj.GenerateResource.Cache
+C:\Users\Студент\Documents\Visual Studio 2012\Projects\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.exe
+C:\Users\Студент\Documents\Visual Studio 2012\Projects\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.pdb
+C:\Users\Студент\Documents\Visual Studio 2012\Projects\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.client.resources
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoClient\bin\Debug\IvanovoClient.exe.config
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoClient\bin\Debug\IvanovoClient.exe
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoClient\bin\Debug\IvanovoClient.pdb
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.csproj.AssemblyReference.cache
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.client.resources
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.Properties.Resources.resources
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.csproj.GenerateResource.cache
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.csproj.CoreCompileInputs.cache
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.exe
+C:\Users\Volodya\source\repos\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.pdb
+C:\Users\Андрей\Desktop\Server-Client-main\Server-Client-main\IvanovoServer\IvanovoClient\bin\Debug\IvanovoClient.exe.config
+C:\Users\Андрей\Desktop\Server-Client-main\Server-Client-main\IvanovoServer\IvanovoClient\bin\Debug\IvanovoClient.exe
+C:\Users\Андрей\Desktop\Server-Client-main\Server-Client-main\IvanovoServer\IvanovoClient\bin\Debug\IvanovoClient.pdb
+C:\Users\Андрей\Desktop\Server-Client-main\Server-Client-main\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\Server-Client-main\Server-Client-main\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Андрей\Desktop\Server-Client-main\Server-Client-main\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.client.resources
+C:\Users\Андрей\Desktop\Server-Client-main\Server-Client-main\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Server-Client-main\Server-Client-main\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\Server-Client-main\Server-Client-main\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Server-Client-main\Server-Client-main\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.exe
+C:\Users\Андрей\Desktop\Server-Client-main\Server-Client-main\IvanovoServer\IvanovoClient\obj\Debug\IvanovoClient.pdb
